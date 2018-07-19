@@ -1,0 +1,138 @@
+
+	*{margin:0 auto;}
+	body{
+	      width:100%;
+		  height:auto;
+	      background:url('../images/b7.jpg') no-repeat;
+		  background-size:cover;
+		  
+			}
+	#wrapper{
+	          width:963px;
+			  height:auto;
+			  margin:0 auto;
+			  background:white;
+				
+				}
+	#header{
+	          width:939px;
+			  height:150px;
+			  margin:0 auto;
+			  background:linear-gradient(#ddd,white);
+			  background-size:cover;
+			  border:12px solid white;
+			  margin-top:10px;
+				
+				}
+	#header h1{
+				
+				}
+	.logo{
+	       float:left;
+		   width:170px;
+		   height:150px;
+		   
+			}
+	.logo img{
+	       float:left;
+		   width:100px;
+		   height:100px;
+		   margin-top:30px;
+		   margin-left:20px;
+		   background-size:cover;
+			}
+	.heading{
+				float:left;
+				width:570px;
+				height:150px;
+				
+			  }
+	 .address{
+	            float:left;
+				width:199px;
+				height:150px;
+				color:white;
+				
+			   }
+	.address img{
+	            width:170px;
+				height:120px;
+	            padding-top:10px;
+				margin-right:10px;
+				font-size:15px;
+				line-height:21px;
+			   }
+	.address a{
+	           text-decoration:none;
+			   color:red;
+	           }
+	  
+#content{
+			  width:939px;
+			  height:605px;
+			  margin:0 auto;
+			  background:;
+			  border:12px solid #ddd;
+			  margin-top:0px;
+				
+				}
+#content table{
+			    width:907px;
+				height:400px;
+				margin-left:0 auto;
+	     		border:0px;
+				margin-top:10px;
+     			box-shadow:3px 3px 3px 3px #006699;
+				background:;
+				}
+#content table tr:nth-child(odd){
+					
+				}
+#content table tr:nth-child(even){
+				   
+				}
+#content table tr{
+				    		
+				}
+
+#content table tr td {
+				    line-height:20px;
+					font-size:20px;
+					font-weight:;
+					padding:10px;
+					padding-left:117px;
+					
+				}
+#content table tr td input{
+				    text-align:center;
+					width:320px;
+					height:25px;
+					background:#e7e9ff;
+					
+				}
+#content table tr td input[type='file'],input[type='submit'],input[type='reset']{
+				    cursor:pointer;
+					
+				}
+	
+	#footer{
+			  width:939px;
+			  height:70px;
+			  margin:0 auto;
+			  margin-top:0px;
+			  background:#ddd;
+			  background-size:cover;
+			  border:12px solid white;	
+		      margin-bottom:10px;			  
+				
+				}
+	#footer h4{
+			  	text-align:center;
+				padding-top:15px;				
+				
+				}
+	#footer h5{
+			  	text-align:center;
+				line-height:20px;				
+				
+				}

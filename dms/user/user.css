@@ -1,0 +1,128 @@
+
+	*{margin:0 auto;}
+	body{
+	      width:100%;
+		  height:auto;
+	      background:url('../images/b7.jpg') no-repeat;
+		  background-size:cover;
+		  
+			}
+	#wrapper{
+	          width:963px;
+			  height:auto;
+			  margin:0 auto;
+			  background:white;
+				
+				}
+	#header{
+	          width:939px;
+			  height:150px;
+			  margin:0 auto;
+			  background:linear-gradient(#ddd,white);
+			  background-size:cover;
+			  border:12px solid white;
+			  margin-top:10px;
+				
+				}
+	#header h1{
+				
+				}
+	.logo{
+	       float:left;
+		   width:170px;
+		   height:150px;
+		   
+			}
+	.logo img{
+	       float:left;
+		   width:100px;
+		   height:100px;
+		   margin-top:30px;
+		   margin-left:20px;
+		   background-size:cover;
+			}
+	.heading{
+				float:left;
+				width:570px;
+				height:150px;
+				
+			  }
+	.address{
+	            float:left;
+				width:199px;
+				height:150px;
+				color:white;
+				
+			   }
+	.address img{
+	            width:170px;
+				height:120px;
+	            padding-top:10px;
+				margin-right:10px;
+				font-size:15px;
+				line-height:21px;
+			   }
+	.address h3{
+	            width:75px;
+				height:35px;
+	            margin-top:55px;
+				margin-left:40px;
+				padding-left:20px;
+				padding-top:7px;
+				background:linear-gradient(yellow,white);
+			   }
+	.address a{
+	           text-decoration:none;
+			   color:red;
+	           }
+	  
+#content{
+			  width:939px;
+			  height:auto;
+			  margin:0 auto;
+			  background:;
+			  border:12px solid #ddd;
+			  margin-top:0px;
+				
+				}
+
+#content table{
+				width:915px;
+				margin:0 auto;
+				margin-top:20px;
+				}
+#content table th{
+				width:915px;
+				background:#ddd;
+				height:50px;
+				}
+#content table td{
+				width:915px;
+				background:#ddd;
+				height:50px;
+				text-align:center;
+				}
+#content table tr td input[type='submit']{
+				cursor:pointer;
+				}
+	#footer{
+			  width:939px;
+			  height:70px;
+			  margin:0 auto;
+			  margin-top:0px;
+			  background:#ddd;
+			  background-size:cover;
+			  border:12px solid white;	
+		      margin-bottom:10px;			  
+				
+				}
+	#footer h4{
+			  	text-align:center;
+				padding-top:15px;				
+				
+				}
+	#footer h5{
+			  	text-align:center;
+				line-height:20px;				
+				
+				}
